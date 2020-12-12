@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/lboyadzhiev/N---Tours/issues"
   },
-  "homepage": "https://github.com/lboyadzhiev/N---Tours#readme"
+  "homepage": "https://github.com/lboyadzhiev/N---Tours#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
