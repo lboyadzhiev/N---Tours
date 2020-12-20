@@ -2,7 +2,7 @@
   "name": "N-Tours",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "handlebars.min.js",
   "scripts": {
     "start": "lite-server",
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
