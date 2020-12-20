@@ -22,5 +22,7 @@
     "lite-server": "^2.6.1",
     "node-sass": "^5.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "handlebars": "^4.7.6"
+  }
 }
